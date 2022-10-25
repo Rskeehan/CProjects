@@ -11,7 +11,7 @@
       "cwd": "c:/Users/Administrator/Documents/CProjects",
       "program": "c:/Users/Administrator/Documents/CProjects/build/Debug/outDebug",
       "MIMode": "gdb",
-      "miDebuggerPath": "c:\\mingw\\bin\\gdb.exe",
+      "miDebuggerPath": "gdb",
       "setupCommands": [
         {
           "description": "Enable pretty-printing for gdb",
