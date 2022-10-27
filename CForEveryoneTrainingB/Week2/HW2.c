@@ -73,7 +73,6 @@ int main()
     printf("The current date is");
     printdate(date1);
 
-
     //printf("and tomorrow is") 
 
     return 0;
