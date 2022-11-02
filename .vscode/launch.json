@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/RPS00/OneDrive/Documents/03 Coding/CProjects",
-      "program": "c:/Users/RPS00/OneDrive/Documents/03 Coding/CProjects/build/Debug/outDebug",
+      "cwd": "c:/Users/Administrator/Documents/CProjects",
+      "program": "c:/Users/Administrator/Documents/CProjects/build/Release/outRelease",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
