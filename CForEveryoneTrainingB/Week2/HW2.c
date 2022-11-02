@@ -135,11 +135,13 @@ void printTodayandTomorrow(date inDate)
 
 int main()
 {
+    //initialize dates
     date date1 = {Feb, 28};
     date date2 = {Mar, 14};
     date date3 = {Nov, 31};
     date date4 = {Dec, 31};
 
+    //print dates and next days.
     printTodayandTomorrow(date1);
     printTodayandTomorrow(date2);
     printTodayandTomorrow(date3);
